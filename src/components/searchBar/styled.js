@@ -5,5 +5,5 @@ export const InputSearch = styled.input`
     height: 40px;
     border: none;
     outline: none;
-    
+    margin-bottom: 10px;
 `

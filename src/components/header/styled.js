@@ -8,4 +8,5 @@ export const HeaderContent = styled.div`
     justify-content: center;
     align-items: center;
     font-weight: bold;
+    margin-bottom: 30px;
 `

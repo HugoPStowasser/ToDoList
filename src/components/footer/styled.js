@@ -8,4 +8,5 @@ export const FooterContent = styled.div`
     justify-content: center;
     align-items: center;
     font-weight: bold;
+    margin-top: 30px;
 `
