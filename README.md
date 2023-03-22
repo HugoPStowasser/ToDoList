@@ -1,1 +1,2 @@
-Projeto de ToDoList orientado pelo Mateus Santana do BeDevClub
+Projeto de ToDoList orientado pelo Mateus Santana do BeDevLab
+(Ainda não finalizado)
